@@ -192,6 +192,11 @@
 - Utvidet informasjon: Videotutorials og artikler relatert til serveroppset for utviklere.
 - Oppdaget av: [OleNedr](https://github.com/OleNedr)
 
+### Papier
+- Type: Chrome plugin 
+- Link: https://getpapier.com/
+- Utvidet informasjon: Nye tabs blir til en text editor med auto-save
+- Oppdaget av: [mrtnsn](https://github.com/mrtnsn)
 
 ## Mal
 
