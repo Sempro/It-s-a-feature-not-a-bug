@@ -1,5 +1,15 @@
 #It's a feature, not a bug
 
+## PHP
+
+### Spatie packages
+- Type: Packages
+- Link: https://spatie.be/opensource/laravel
+- Utvidet informasjon: Samling av forskjellige packages til laravel
+- Bruksområder: Laravel
+- Oppdaget av: [mrtnsn](https://github.com/mrtnsn)
+
+
 ## JS
 
 ### Sweet alert
